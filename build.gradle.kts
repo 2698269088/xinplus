@@ -1,5 +1,5 @@
 plugins {
-    id("fabric-loom") version "1.9-SNAPSHOT"
+    id("fabric-loom") version "1.11-SNAPSHOT"
 }
 
 base {
@@ -9,6 +9,18 @@ base {
 }
 
 repositories {
+    maven {
+        name = "AliyunPublic"
+        url = uri("https://maven.aliyun.com/repository/public")
+    }
+    maven {
+        name = "AliyunJCenter"
+        url = uri("https://maven.aliyun.com/repository/jcenter")
+    }
+    maven {
+        name = "AliyunGoogle"
+        url = uri("https://maven.aliyun.com/repository/google")
+    }
     maven {
         name = "meteor-maven"
         url = uri("https://maven.meteordev.org/releases")
