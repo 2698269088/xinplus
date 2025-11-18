@@ -10,7 +10,7 @@ An addon for MeteorClient.
 ## Contributors
 Thanks to all the amazing people who have contributed to this project:
 
-<a href="https://github.com/huangdihd/xinplus/graphs/contributors">
+<a href="https://github.com/2698269088/xinplus/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=huangdihd/xinbot"  alt="Contributors"/>
 </a>
 
