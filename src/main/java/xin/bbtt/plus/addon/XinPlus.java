@@ -33,7 +33,7 @@ public class XinPlus extends MeteorAddon {
 
     @Override
     public GithubRepo getRepo() {
-        return new GithubRepo("huangdihd", "xinplus");
+        return new GithubRepo("huangdihd and MCOCET", "xinplus");
     }
 
     @Override
